@@ -1,5 +1,8 @@
 # Gerenciamento de Tickets 🎫
 
+## StepComputerAcademy - Modulo 5 - JavaScript
+![image](https://github.com/user-attachments/assets/0fd85a03-d7bc-486e-aa72-81c40286e698)
+
 ## Descrição 📝
 Desenvolvimento de uma API para o projeto final de TypeScript, módulo 5, da Step Computer Academy.
 Essa API permite a criação, vizualização, atualização e exclusão de ticktes.
